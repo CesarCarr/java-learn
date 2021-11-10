@@ -1,2 +1,2 @@
-# learn-java
+# java-learn
 java projects learned through classes
